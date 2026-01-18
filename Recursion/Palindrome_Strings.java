@@ -1,4 +1,4 @@
-public class Palindrome_String {
+public class Palindrome_Strings {
     public static  boolean f ( int i , String s){
         if ( i >= s.length()/2) return true;
         int j = s.length();
