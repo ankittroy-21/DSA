@@ -1,6 +1,6 @@
 import java.util.*;
 // Hashing concept for counting numbers frequency
-public class Hashing{
+public class Hashing_Num{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter your Array size : ");
